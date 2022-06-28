@@ -1,9 +1,9 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-7/8bdb497f30bd0df18bf1b4075630d2f23fb73e5d/public/logo.svg" alt="Upfi" width="280"/>
+   <img src="https://raw.githubusercontent.com/brunowbbs/ignite-reactjs-desafio-7/8bdb497f30bd0df18bf1b4075630d2f23fb73e5d/public/logo.svg" alt="Upfi" width="280"/>
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/tavareshenrique/">
+   <a href="https://www.linkedin.com/in/brunowbbs/">
       <img alt="Henrique Tavares" src="https://img.shields.io/badge/-Henrique Tavares-DD6B20?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
@@ -22,8 +22,8 @@
 ### Fotos
 
 <div>
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-7/master/src/assets/preview/preview1.png" width="400px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-7/master/src/assets/preview/preview2.png" width="400px" />
+   <img src="https://raw.githubusercontent.com/brunowbbs/ignite-reactjs-desafio-7/master/src/assets/preview/preview1.png" width="400px" />
+   <img src="https://raw.githubusercontent.com/brunowbbs/ignite-reactjs-desafio-7/master/src/assets/preview/preview2.png" width="400px" />
 </div>
 
 # :computer: Tecnologias
@@ -47,7 +47,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-https://github.com/tavareshenrique/ignite-reactjs-desafio-7
+https://github.com/brunowbbs/ignite-reactjs-desafio-7
 ```
 
 ```bash
@@ -67,7 +67,7 @@ Acesse <http://localhost:3000> para ver o resultado.
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
+      <a href="http://github.com/brunowbbs/">
         <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
@@ -75,12 +75,12 @@ Acesse <http://localhost:3000> para ver o resultado.
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
+       <a href="https://www.linkedin.com/in/brunowbbs/" title="Linkedin">@brunowbbs</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/brunowbbs/fastfeet-api/commits?author=brunowbbs" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
+      <a href="http://github.com/brunowbbs/">
         <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
@@ -90,7 +90,7 @@ Acesse <http://localhost:3000> para ver o resultado.
        <br />
        <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Creators">🚀</a>
+       <a href="https://github.com/brunowbbs/fastfeet-api/commits?author=brunowbbs" title="Creators">🚀</a>
     </td>
   </tr>
 </table>
